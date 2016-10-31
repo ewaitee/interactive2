@@ -1,0 +1,1147 @@
+
+
+/*page setup*/
+
+
+
+
+#redbox{
+    height: 40%;
+    margin: 0px auto;
+    background-color: red;
+    position: relative;
+    padding-top:300px;
+    padding-left:60px;
+    padding-right:50px;
+    padding-bottom:100px;
+}
+
+#Fixed
+{
+    position: fixed;
+    right:7px;
+    bottom:7px;
+    z-index:10;
+      width: 0;
+  height: 0;
+  border-bottom: 15px solid lightgrey;
+  border-left: 15px solid transparent;
+    
+}
+
+/*letters*/
+
+#contain{
+     width: 15%;
+     height: 30%;
+     position: relative;
+     float: left;
+     margin-left: 50px;
+}
+
+
+#containl{
+      width: 15%;
+     height: 40%;
+     position: relative;
+     float: left;
+     margin-left: 50px;
+     margin-right:-70px;
+
+}
+
+#bigh{
+    width: 80%;
+    height: 100%;
+    border: 10px solid white;
+    position:absolute;
+    border-bottom:#ffffff;
+  
+}
+
+#bighl{
+    height:200%;
+    width:80%;
+    border: 10px solid white;
+    position:absolute;
+    border-right:#ffffff;
+    border-bottom:#ffffff;
+    border-top:#ffffff;
+    bottom:0px;
+  
+}
+
+#bige{
+    width: 80%;
+    height: 30%;
+    border: 10px solid white;
+    position:absolute;
+    
+}
+
+#bigel{
+    width:80%;
+    height:90%;
+    border: 10px solid white;
+    position:absolute;
+    border-right:  #ffffff;
+    
+}
+
+
+#bigl{
+    height:200%;
+    width:80%;
+    border: 10px solid white;
+    position:absolute;
+    border-right:#ffffff;
+    border-bottom:#ffffff;
+    border-top:#ffffff;
+    bottom:30px;
+    bottom:0px;
+}
+
+#otherl{
+    height:200%;
+    width:80%;
+    border: 10px solid white;
+    position:absolute;
+    border-right:#ffffff;
+    border-bottom:#ffffff;
+    border-top:#ffffff;
+    bottom:0px;
+}
+
+#bigo{
+    width: 80%;
+    height: 90%;
+    border: 10px solid white;
+    position:absolute;
+  
+}
+
+/*alphabet*/
+
+#page{
+    height: 100%;
+    margin: 0px auto;
+    position: relative;
+    padding-top:150px;
+    padding-left:50px;
+    padding-right:70px;
+    padding-bottom:100px;
+   
+  
+}
+
+
+#containera{
+      width:5%;
+      height:10%;
+      position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#a{
+      width: 90%;
+      height: 30%;
+      border: 10px solid red;
+      position:absolute;
+      top:50%;      
+}
+
+#linea{
+    	width:90%;
+    	height:90%;
+    	border: 10px solid red;
+    	position:absolute;
+    	border-left:  #ffffff;
+      border-bottom:  #ffffff;
+      left:10px;
+      bottom:0px;
+  
+}
+
+#containerb{
+        float: left;
+        margin-left: 50px;
+        margin-top:200px;
+        height:10%;
+        position: relative;
+        width:5%;
+}
+
+#b{
+        width: 90%;
+        height: 90%;
+        border: 10px solid red;
+        position:absolute;
+}
+
+#lineb{
+    	width: 90%;
+      height: 200%;
+    	border: 10px solid red;
+    	position:absolute;
+      border-right:  #ffffff;
+      border-top:  #ffffff;
+      border-bottom:  #000000;
+      bottom:0px;
+}
+
+#containerc{
+      width:5%;
+      height:10%;
+      position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#c{
+  width: 90%;
+  height: 90%;
+  border: 10px solid red;
+  position:absolute;
+  border-right:  #ffffff;
+}
+
+#containerd{
+      width:5%;
+      height:10%;
+      position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#d{
+      width: 90%;
+      height: 90%;
+      border: 10px solid red;
+      position:absolute;
+  
+}
+
+#lined{
+    	width: 90%;
+      height: 200%;
+      border: 10px solid red;
+      position:absolute;
+      border-left:  #ffffff;
+      border-top:  #ffffff;
+      border-bottom:  #000000;
+      bottom:0px;
+      left:10px;
+}
+
+#containere{
+        width:5%;
+        height:10%;
+        position: relative;
+        float: left;
+        margin-left: 50px;
+        margin-top:200px;
+    
+}
+
+#e{
+  width: 80%;
+  height: 30%;
+  border: 10px solid red;
+  position:absolute;
+}
+
+#linee{
+	width:90%;
+  height:90%;
+	border: 10px solid red;
+	position:absolute;
+	border-right:  #ffffff;
+}
+
+#containerf{
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+      height:10%;
+      position: relative;
+      width:5%;
+
+}
+
+#f{
+  height:90%;
+  width:90%;
+  border: 10px solid red;
+  position:absolute;
+  border-right:  #ffffff;
+  border-left:  #ffffff;
+  border-bottom:  #000000;
+  bottom:0px;
+}
+
+#ff{
+  height:210%;
+  width:40%;
+  border: 10px solid red;
+  position:absolute;
+  border-right:  #ffffff; 
+  border-bottom:  #000000;
+  bottom:-15px;
+  left:35%;
+  
+}
+
+#containerg{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#g{
+  width: 90%;
+  height: 90%;
+  border: 10px solid red;
+  position:absolute;
+  border-right:  #ffffff;
+}
+
+#lineg{
+  height:200%;
+  width: 90%;
+  border: 10px solid red;
+  position:absolute;
+  border-left: #ffffff;
+  
+}
+
+#containerh{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#h{
+  width: 90%;
+  height: 100%;
+  border: 10px solid red;
+  position:absolute;
+  border-bottom:#ffffff;
+  bottom:-15px;
+
+}
+
+#lineh{
+  height:200%;
+  width:90%;
+  border: 10px solid red;
+  position:absolute;
+  border-right:#ffffff;
+  border-bottom:#ffffff;
+  border-top:#ffffff;
+  bottom:-15px;
+  
+}
+
+#containeri{
+ width:5%;
+  height:10%;
+ position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+ 
+}
+
+#i{
+  width: 90%;
+  height: 110%;
+  border: 10px solid red;
+  position:absolute; 
+  border-right:  #ffffff;
+  border-top:  #ffffff;
+  border-bottom:  #ffffff;
+  left:20px;
+  bottom:-15px;
+}
+
+#idot{
+  width: 2%;
+  height: 2%;
+  border: 10px solid red;
+  position:absolute;
+  bottom:90%;
+  left:20px;
+   border-right:  #ffffff;
+  border-bottom:  #ffffff;
+  
+}
+
+#containerj{
+ width:5%;
+  height:10%;
+ position: relative;
+      float: left;
+      margin-left: 20px;
+      margin-top:200px;
+}
+
+#j{
+height:200%;
+  width: 90%;
+  border: 10px solid red;
+  position:absolute;
+  border-left: #ffffff;
+  border-top: #ffffff;
+
+}
+
+#jdot{
+
+  width: 2%;
+  height: 2%;
+  border: 10px solid red;
+  position:absolute;
+  bottom:110%;
+  left:90%;
+   border-right:  #ffffff;
+  border-bottom:  #ffffff;
+  
+
+}
+
+#containerk{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#k{
+  height:200%;
+  width:90%;
+  border: 10px solid red;
+  position:absolute;
+  border-right:  #ffffff;
+  border-top:  #ffffff;
+  border-bottom:  #ffffff;
+  bottom:-15px;
+}
+
+#kk{
+  width: 90%;
+  height: 30%;
+  border: 10px solid red;
+  position:absolute;
+  bottom:-15px;
+  border-bottom:  #ffffff;
+
+}
+
+#ktop{
+  width: 80%;
+  height: 30%;
+  border: 10px solid red;
+  position:absolute;
+  
+  border-top:  #ffffff;
+}
+
+#containerl{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 60px;
+      margin-top:200px;
+}
+
+#l{
+  height:200%;
+  width:8%;
+  border: 10px solid red;
+  position:absolute;
+  border-right:  #ffffff;
+  border-top:  #ffffff;
+  border-bottom:  #ffffff;
+  bottom:-15px;
+}
+
+#containerm{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 20px;
+      margin-top:200px;
+}
+
+#m{
+  width: 45%;
+  height: 110%;
+  border: 10px solid red;
+  position:absolute;
+  border-bottom:  #ffffff;
+  bottom:-15px;
+
+}
+
+#mm{
+  width: 45%;
+  height: 110%;
+  border: 10px solid red;
+  position:absolute;
+  bottom:-15px;
+  border-bottom:  #ffffff;
+  left:70%;
+
+}
+
+#containern{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#n{
+ width: 90%;
+  height: 110%;
+  border: 10px solid red;
+  position:absolute;
+  border-bottom:  #ffffff;
+  bottom:-15px;
+
+}
+
+#containero{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#o{
+  width: 90%;
+  height: 90%;
+  border: 10px solid red;
+  position:absolute;
+
+}
+
+#containerp{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#p{
+  width: 90%;
+  height: 90%;
+  border: 10px solid red;
+  position:absolute;
+
+ 
+}
+
+#pp{
+  height:210%;
+  width:90%;
+  border: 10px solid red;
+  position:absolute;
+  
+  border-right:  #ffffff;
+  border-top:  #ffffff;
+  border-bottom:  #ffffff;
+}
+
+#containerq{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#q{
+  width: 90%;
+  height: 90%;
+  border: 10px solid red;
+  position:absolute;
+ 
+}
+#qtail{ 
+  height:210%;
+  width:90%;
+  border: 10px solid red;
+  position:absolute;
+  left:10px;
+  border-left:  #ffffff;
+  border-top:  #ffffff;
+  border-bottom:  #ffffff;
+}
+
+#containerr{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#r{
+  width: 90%;
+  height: 110%;
+  border: 10px solid red;
+  position:absolute;
+  border-bottom:  #ffffff;
+  border-right:  #ffffff;
+ bottom:-15px;
+}
+
+#containers{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#s{
+  width: 90%;
+  height: 35%;
+  border: 10px solid red;
+  position:absolute;
+ 
+  border-bottom:  #ffffff;
+  border-right:  #ffffff;
+ 
+}
+
+#ss{
+  width: 90%;
+  height: 40%;
+  border: 10px solid red;
+  position:absolute;
+  bottom:-15px;
+  border-left:  #ffffff;
+ 
+}
+
+#containert{
+      width:5%;
+      height:10%;
+      position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#t{
+  height:200%;
+  width:50%;
+  border: 10px solid red;
+  position:absolute;
+  border-right:  #ffffff;
+  border-top:  #ffffff;
+  
+  bottom:-15px;
+  left:35%;
+}
+
+#tt{
+  height:110%;
+  width:90%;
+  border: 10px solid red;
+  position:absolute;
+  border-right:  #ffffff;
+  border-left:  #ffffff;
+  border-bottom:  #ffffff;
+  bottom:-15px;
+  
+}
+
+#containeru{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#u{
+  width: 90%;
+  height: 110%;
+  border: 10px solid red;
+  position:absolute;
+  border-top:  #ffffff;
+  bottom:-15px;
+}
+
+#containerv{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#v{
+  width: 90%;
+  height: 110%;
+  border: 10px solid red;
+  position:absolute;
+  border-top:  #ffffff;
+  bottom:-15px;
+}
+
+#containerw{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#w{
+  width: 45%;
+  height: 110%;
+  border: 10px solid red;
+  position:absolute;
+bottom:-15px;
+  border-top:  #ffffff;
+
+}
+
+#ww{
+  width: 45%;
+  height: 110%;
+  border: 10px solid red;
+  position:absolute;
+  left:70%;
+  border-top:  #ffffff;
+  bottom:-15px;
+}
+
+#containerx{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#x{
+  width: 90%;
+  height: 35%;
+  border: 10px solid red;
+  position:absolute;
+  border-top:  #ffffff;
+
+}
+
+#xx{
+  width: 90%;
+  height: 35%;
+  border: 10px solid red;
+  position:absolute;
+  border-bottom:  #ffffff;
+  bottom:-15px;
+}
+
+#containery{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#y{
+  width: 90%;
+  height: 110%;
+  border: 10px solid red;
+  position:absolute;
+bottom:-15px;
+  border-top:  #ffffff;
+
+}
+
+
+#liney{
+  height:200%;
+  width: 90%;
+  border: 10px solid red;
+  position:absolute;
+  border-left: #ffffff;
+  border-top: #ffffff;
+  left:10px;
+}
+
+#containerz{
+ width:5%;
+  height:10%;
+ position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#z{
+  width: 90%;
+  height: 35%;
+  border: 10px solid red;
+  position:absolute;
+ 
+  border-bottom:  #ffffff;
+  border-left:  #ffffff;
+ 
+}
+
+#zz{
+  width: 90%;
+  height: 40%;
+  border: 10px solid red;
+  position:absolute;
+  border-right:  #ffffff;
+ bottom:-15px;
+}
+
+
+#containerzero{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#zero{
+  width: 90%;
+  height: 160%;
+  border: 10px solid red;
+  position:absolute;
+  bottom:-15px;
+}
+
+#containerone{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#one{
+  width: 90%;
+  height: 200%;
+  border: 10px solid red;
+  position:absolute;
+  bottom:-15px;
+  border-left:  #ffffff;
+  border-top:  #ffffff;
+  border-bottom:  #ffffff;
+}
+
+#containertwo{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#two{
+  width: 90%;
+  height: 70%;
+  border: 10px solid red;
+  position:absolute;
+  border-bottom:  #ffffff;
+  border-left:  #ffffff;
+ bottom:85%;
+}
+
+#twobottom{
+  width: 90%;
+  height: 80%;
+  border: 10px solid red;
+  position:absolute;
+  border-right:  #ffffff;
+ bottom:-15px;
+}
+
+
+#containerthree{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#three{
+  width: 90%;
+  height: 75%;
+  border: 10px solid red;
+  position:absolute;
+  border-bottom:  #ffffff;
+  border-left:  #ffffff;
+ bottom:85%;
+}
+
+#threebottom{
+  width: 90%;
+  height: 75%;
+  border: 10px solid red;
+  position:absolute;
+  border-left:  #ffffff;
+ bottom:-15px;
+}
+
+
+#containerfour{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#four{
+  width: 90%;
+  height: 75%;
+  border: 10px solid red;
+  position:absolute;
+  border-top:  #ffffff;
+  
+ bottom:85%;
+}
+
+#fourbottom{
+  width: 90%;
+  height: 200%;
+  border: 10px solid red;
+  position:absolute;
+  border-left:  #ffffff;
+  border-bottom:  #ffffff;
+  border-top:  #ffffff;
+bottom:-15px;
+ left:10px;
+}
+
+#containerfive{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#five{
+  width: 90%;
+  height: 75%;
+  border: 10px solid red;
+  position:absolute;
+  border-bottom:  #ffffff;
+  border-right:  #ffffff;
+ bottom:85%;
+}
+
+#fivebottom{
+  width: 90%;
+  height: 75%;
+  border: 10px solid red;
+  position:absolute;
+  border-left:  #ffffff;
+ bottom:-15px;
+}
+
+#containersix{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#six{
+  width: 90%;
+  height: 75%;
+  border: 10px solid red;
+  position:absolute;
+  border-bottom:  #ffffff;
+  border-right:  #ffffff;
+ bottom:85%;
+}
+
+#sixbottom{
+  width: 90%;
+  height: 75%;
+  border: 10px solid red;
+  position:absolute;
+  
+ bottom:-15px;
+}
+
+#containerseven{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#seven{
+  width: 90%;
+  height: 75%;
+  border: 10px solid red;
+  position:absolute;
+   border-left:  #ffffff;
+  border-bottom:  #ffffff;
+  
+ bottom:85%;
+}
+
+#sevenbottom{
+  width: 90%;
+  height: 200%;
+  border: 10px solid red;
+  position:absolute;
+  border-left:  #ffffff;
+  border-bottom:  #ffffff;
+  border-top:  #ffffff;
+ bottom:-15px;
+ 
+}
+
+
+#containereight{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#eight{
+  width: 90%;
+  height: 65%;
+  border: 10px solid red;
+  position:absolute;
+ bottom:85%;
+}
+
+#eightbottom{
+  width: 90%;
+  height: 75%;
+  border: 10px solid red;
+  position:absolute;
+ bottom:-15px;
+}
+
+#containernine{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#nine{
+  width: 90%;
+  height: 75%;
+  border: 10px solid red;
+  position:absolute;  
+ bottom:85%;
+}
+
+#ninebottom{
+  width: 90%;
+  height: 200%;
+  border: 10px solid red;
+  position:absolute;
+  border-left:  #ffffff;
+  border-bottom:  #ffffff;
+  border-top:  #ffffff;
+ bottom:-15px;
+ left:10px;
+}
+
+#containerquestion{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#question{
+  width: 90%;
+  height: 75%;
+  border: 10px solid red;
+  position:absolute;  
+ bottom:100%;
+ border-left:  #ffffff;
+ border-bottom:  #ffffff;
+ 
+}
+
+#questionbottom{
+  width: 57%;
+  height: 80%;
+  border: 10px solid red;
+  position:absolute;
+  border-right:  #ffffff;
+  border-bottom:  #ffffff;
+  left:30%;
+ bottom:0px;
+}
+
+#questiondot{
+  width: 2%;
+  height: 2%;
+  border: 10px solid red;
+  position:absolute;
+  bottom:-15px;
+  left:30%;
+   border-right:  #ffffff;
+  border-bottom:  #ffffff;
+  }
+
