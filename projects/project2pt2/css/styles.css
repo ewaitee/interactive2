@@ -1145,3 +1145,56 @@ bottom:-15px;
   border-bottom:  #ffffff;
   }
 
+  #containerexclamation{
+ width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+
+#exclamation{
+  width: 90%;
+  height: 150%;
+  border: 10px solid red;
+  position:absolute;
+  bottom:20px;
+  border-left:  #ffffff;
+  border-top:  #ffffff;
+  border-bottom:  #ffffff;
+}
+
+#exdot{
+  width: 2%;
+  height: 2%;
+  border: 10px solid red;
+  position:absolute;
+  bottom:-15px;
+  left:90%;
+   border-right:  #ffffff;
+  border-bottom:  #ffffff;
+  }
+
+
+#containerperiod{
+
+   width:5%;
+  height:10%;
+  position: relative;
+      float: left;
+      margin-left: 50px;
+      margin-top:200px;
+}
+  #period{
+  width: 2%;
+  height: 2%;
+  border: 10px solid red;
+  position:absolute;
+  bottom:-15px;
+  left:30%;
+   border-right:  #ffffff;
+  border-bottom:  #ffffff;
+  }
+
+
