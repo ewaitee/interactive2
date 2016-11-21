@@ -1,0 +1,98 @@
+/*change highlight color*/
+::selection {
+    
+    background: red;
+}
+
+
+@font-face{
+	font-family: 'DigiGrotesk';
+	src:url("DigiGrotesk.ttf");
+}
+@font-face{
+	font-family: 'neualphabet';
+	src:url("Neualphabet.ttf"); 
+}
+
+/*
+h1:hover >body, body:hover {
+	background-color:red;
+	color:white;
+	-o-transition:.8s;
+  -ms-transition:.8s;
+  -moz-transition:.8s;
+  -webkit-transition:.8s;
+  /* ...and now for the proper property 
+  transition:.8s;
+}
+*/
+
+
+/*OCR A page*/
+#ocra{
+	font-family:'OCR A Std';
+	font-size:80px;
+	text-align:center;
+	margin-top:230px;
+
+}
+
+/*New Alphabet page*/
+#Neu{
+	font-family:'New Alphabet';
+	font-size:80px;
+	text-align:center;
+	margin-top:230px;
+}
+
+#digi{
+	font-family:'Digi Grotesk Bold Condensed';
+	font-size:60px;
+	text-align:center;
+	margin-top:230px;
+}
+
+#Chicago{
+	font-family:'Chicago';
+	font-size:60px;
+	text-align:center;
+	margin-top:230px;
+}
+
+
+
+#abouttext{
+	text-align:left;
+	font-family:'helvetica';
+	font-size:15px;
+	width:20%;
+	position:absolute;
+	top:730px;
+	left:800px;
+}
+
+
+textarea{
+	position:absolute;
+	text-align:left;
+	left:150px;
+	top:700px;
+	
+	border:none;
+}
+
+
+
+#line{
+	position:absolute;
+	height:400px;
+	width:10px;
+	left:100px;
+	top:700px;
+	background-color:red;
+}
+
+
+
+
+

@@ -1,0 +1,195 @@
+/*highlight color*/
+::selection {
+    
+    background: red;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+   
+}
+
+
+
+
+
+h1{
+  position:absolute;
+  font-size:15px;
+  left:100px;
+  top:50px;
+  font-family:helvetica;
+
+}
+
+#container{
+  width:1000px;
+
+}
+
+#amount{
+  padding-left: 350px;
+  color:red;
+}
+
+#slider-range-max{
+left:100px;
+}
+
+#container2{
+	margin-top:200px;
+	margin-left:50px;
+	width:100%;
+}
+#collumn1{
+	text-align: center;
+	width:12%;
+	height:100px;
+	
+	margin-left:50px;
+	float:left;
+	margin-top:50px;
+}
+#collumn2{
+	text-align: center;
+	width:12%;
+	height:100px;
+	
+	margin-left:50px;
+	float:left;
+	margin-top:50px;
+}
+#collumn3{
+	text-align: center;
+	width:12%;
+	height:100px;
+	
+	margin-left:50px;
+	float:left;
+	margin-top:50px;
+}
+#collumn4{
+	text-align: center;
+	width:12%;
+	height:100px;
+	
+	margin-left:50px;
+	float:left;
+	margin-top:50px;
+}
+#collumn5{
+	text-align: center;
+	width:12%;
+	height:100px;
+	
+	margin-left:50px;
+	float:left;
+	margin-top:50px;
+}
+
+#collumn6{
+	text-align: center;
+	width:12%;
+	height:100px;
+	
+	margin-left:50px;
+	float:left;
+	margin-top:50px;
+}
+
+#collumn7{
+	text-align: center;
+	width:12%;
+	height:100px;
+	
+	margin-left:50px;
+	float:left;
+	margin-top:50px;
+}
+
+#collumn8{
+	text-align: center;
+	width:12%;
+	height:100px;
+	
+	margin-left:50px;
+	float:left;
+	margin-top:50px;
+}
+
+#collumn9{
+	text-align: center;
+	width:12%;
+	height:100px;
+	
+	margin-left:50px;
+	float:left;
+	margin-top:50px;
+}
+
+#collumn10{
+	text-align: center;
+	width:12%;
+	height:100px;
+	
+	margin-left:50px;
+	float:left;
+	margin-top:50px;
+}
+
+#OCR{
+	font-family:'OCR A Std';
+	font-size:80px;
+	
+}
+
+
+
+#neu{
+	font-family:'New Alphabet';
+	font-size:140px;
+	
+}
+
+#digi{
+	font-family:'Digi Grotesk Bold Condensed';
+	font-size:80px;
+	
+}
+
+#chicago{
+	font-family:'Chicago';
+	font-size:80px;
+	
+}
+
+#lucida{
+	font-family:'Lucida Sans';
+	font-size:80px;
+	
+}
+
+#Arial{
+	font-family:'Arial';
+	font-size:80px;
+	
+}
+
+p1{
+
+	font-family:helvetica;
+	font-size:15px;
+	color:black;
+
+}
