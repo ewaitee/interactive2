@@ -20,8 +20,127 @@ a:hover {
    
 }
 
+#as{
+	margin:auto;
+	position:absolute;
+	top:150px;
+	height:600px;
+	width:100%;
+	
+}
 
+#one{
 
+	position:absolute;
+	text-align:center;
+	width:700px;
+	height:700px;
+		margin-left:25%;
+		z-index:1;
+		top:80px;
+}
+
+#two{
+
+	position:absolute;
+	text-align:center;
+	width:700px;
+	height:700px;
+		margin-left:25%;
+		z-index:1;
+		top:80px;
+}
+
+#three{
+
+	position:absolute;
+	text-align:center;
+	width:700px;
+	height:700px;
+		margin-left:25%;
+		z-index:1;
+}
+#four{
+
+	position:absolute;
+	text-align:center;
+	width:700px;
+	height:700px;
+		margin-left:25%;
+		z-index:1;
+}
+#five{
+
+	position:absolute;
+	text-align:center;
+	width:700px;
+	height:700px;
+		margin-left:25%;
+		z-index:1;
+}
+#six{
+
+	position:absolute;
+	text-align:center;
+	width:700px;
+	height:700px;
+		margin-left:25%;
+		z-index:1;
+}
+#seven{
+
+	position:absolute;
+	text-align:center;
+	width:700px;
+	height:700px;
+		margin-left:25%;
+		z-index:1;
+}
+
+#eight{
+
+	position:absolute;
+	text-align:center;
+	width:700px;
+	height:700px;
+		margin-left:25%;
+		z-index:1;
+}
+
+#nine{
+
+	position:absolute;
+	text-align:center;
+	width:700px;
+	height:700px;
+		margin-left:25%;
+		z-index:1;
+}
+
+#ten{
+
+	position:absolute;
+	text-align:center;
+	width:700px;
+	height:700px;
+		margin-left:25%;
+		z-index:1;
+}
+
+p{
+	margin-top:150px;
+	font-size:700px; 
+	opacity:0.2;
+	line-height: 0;
+	color:red;
+
+}
+
+p:hover{
+	color:black;
+	opacity:0.5;
+	z-index:10;
+}
 
 
 h1{
@@ -180,8 +299,31 @@ left:100px;
 	
 }
 
+#Blur{
+	font-family:'Blur';
+	font-size:80px;
+}
+
 #Arial{
 	font-family:'Arial';
+	font-size:80px;
+	
+}
+
+#georgia{
+	font-family:'Georgia';
+	font-size:80px;
+	
+}
+
+#verdana{
+	font-family:'Verdana';
+	font-size:80px;
+	
+}
+
+#gotham{
+	font-family:'Gotham';
 	font-size:80px;
 	
 }
@@ -193,3 +335,8 @@ p1{
 	color:black;
 
 }
+
+
+
+
+

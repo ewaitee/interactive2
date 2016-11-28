@@ -5,6 +5,73 @@
 }
 
 
+/*navigation*/
+
+ul#navigation {
+  
+    position: fixed;
+    margin: 0px;
+    padding: 0px;
+    top: 100px;
+    left: 0px;
+    list-style: none;
+    z-index:9999;
+
+}
+
+ul#navigation >.home {
+    width: 100px;
+}
+
+ul#navigation >.home a:first-child{
+
+  -webkit-clip-path: polygon(81% 0, 81% 17%, 69% 17%, 70% 100%, 0 100%, 0 0);
+clip-path: polygon(81% 0, 81% 17%, 69% 17%, 70% 100%, 0 100%, 0 0);
+    display: block;
+    margin-left: -270px;
+    width: 300px;
+    height: 150px;
+    background-color:red;
+    background-repeat:no-repeat;
+    background-position:center center;
+    padding:40px;
+}
+
+ul#navigation >.home a:nth-child(2){
+
+  
+    display: block;
+    margin-left: -270px;
+    width: 300px;
+    height: 150px;
+    position:absolute;
+    top:60px;
+    background-position:center center;
+    padding:40px;
+}
+
+ul#navigation >.home a:nth-child(3){
+
+  
+    display: block;
+    margin-left: -270px;
+    width: 300px;
+    height: 150px;
+    position:absolute;
+    top:120px;
+    background-position:center center;
+    padding:40px;
+}
+
+a{
+  font-family:'Helvetica';
+  color:white;
+  font-size:30px;
+  
+}
+
+/*typefaces*/
+
 @font-face{
 	font-family: 'DigiGrotesk';
 	src:url("DigiGrotesk.ttf");
@@ -45,6 +112,8 @@ h1:hover >body, body:hover {
 	margin-top:230px;
 }
 
+/*digi page*/
+
 #digi{
 	font-family:'Digi Grotesk Bold Condensed';
 	font-size:60px;
@@ -52,6 +121,7 @@ h1:hover >body, body:hover {
 	margin-top:230px;
 }
 
+/*Chicago page*/
 #Chicago{
 	font-family:'Chicago';
 	font-size:60px;
@@ -59,25 +129,74 @@ h1:hover >body, body:hover {
 	margin-top:230px;
 }
 
+/*Chicago page*/
+#lucida{
+	font-family:'Lucida Sans';
+	font-size:60px;
+	text-align:center;
+	margin-top:230px;
+}
 
+/*Chicago page*/
+#blur{
+	font-family:'Blur';
+	font-size:60px;
+	text-align:center;
+	margin-top:230px;
+}
+
+/*Chicago page*/
+#arial{
+	font-family:'Arial';
+	font-size:60px;
+	text-align:center;
+	margin-top:230px;
+}
+
+/*Chicago page*/
+#verdana{
+	font-family:'Verdana';
+	font-size:60px;
+	text-align:center;
+	margin-top:230px;
+}
+
+/*Chicago page*/
+#georgia{
+	font-family:'Georgia';
+	font-size:60px;
+	text-align:center;
+	margin-top:230px;
+}
+/*Chicago page*/
+#gotham{
+	font-family:'Gotham';
+	font-size:60px;
+	text-align:center;
+	margin-top:230px;
+}
+
+/*about text*/
 
 #abouttext{
 	text-align:left;
 	font-family:'helvetica';
 	font-size:15px;
-	width:20%;
+	margin-left:800px;
+	margin-right:100px;
 	position:absolute;
-	top:730px;
-	left:800px;
+	top:800px;
+	
+	
 }
 
+/*interactive textbox*/
 
 textarea{
 	position:absolute;
 	text-align:left;
 	left:150px;
-	top:700px;
-	
+	top:800px;
 	border:none;
 }
 
@@ -88,11 +207,93 @@ textarea{
 	height:400px;
 	width:10px;
 	left:100px;
-	top:700px;
+	top:800px;
 	background-color:red;
 }
 
+/*text sizes*/
 
+#fox{
+	position:absolute;
+	text-align:left;
+	top:1500px;
+	left:100px;
+	right:100px;
+}
+
+h2{
+	font-size:60pt;
+
+}
+
+h2:hover{
+	color:red;
+}
+
+
+h3{
+	font-size:45pt;
+}
+
+h3:hover{
+	color:red;
+}
+
+
+h4{
+	font-size:24pt;
+}
+h4:hover{
+	color:red;
+}
+
+h5{
+	font-size:14pt;
+}
+
+h5:hover{
+	color:red;
+}
+
+h6{
+	font-size:9pt;
+}
+
+h6:hover{
+	color:red;
+}
+
+h7{
+	font-size:9pt;
+	
+}
+
+
+/*picture*/
+#picture{
+	text-align:center;
+	position:absolute;
+	top:2500px;
+	left:25%;
+}
+
+#video{
+	
+	position:absolute;
+	top:2500px;
+	left:25%;
+}
+
+
+
+/*full scharacter set*/
+#specimin{
+	text-align:center;
+	position:absolute;
+	top:3000px;
+	left:25%;
+
+}
 
 
 
